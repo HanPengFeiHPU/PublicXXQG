@@ -5,6 +5,9 @@
 
 需要下载chrome浏览器，与chrome版本相对应的chromedriver：http://chromedriver.storage.googleapis.com/index.html
 
+最新版本下载地址（搜索“XXQG”）：
+http://www.zoujiao.net/T68/modules/ebook.html
+
 用户名：CeShi
 密码：ceshi
 
